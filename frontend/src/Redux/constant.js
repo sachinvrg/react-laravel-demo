@@ -1,0 +1,9 @@
+export const Variables = {
+    API_REQUEST : 'API_REQUEST',
+    API_SUCCESS : 'API_SUCCESS',
+    API_FAILURE : 'API_FAILURE',
+    ADD_ITEM : "ADD_ITEM",
+    SELECT_ITEM : "SELECT_ITEM",
+    REMOVE_ITEM :"REMOVE_ITEM",
+    GET_ITEM : "GET_ITEM"
+}
